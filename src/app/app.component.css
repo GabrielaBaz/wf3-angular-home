@@ -1,0 +1,29 @@
+.app-comp {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 95vh;
+}
+
+.app-comp-home {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top {
+  background-color: #f5c0c0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.bottom {
+  background-color: #9fd8df;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.middle {
+  position: relative;
+  left: 800px;
+  top: -500px;
+}
